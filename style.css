@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body{
+    background-color: #D9EDBF;
+}
+.divs{
+    /* border: 1px solid; */
+    margin-top: 7%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.pdiv{
+   
+    margin-right: 320px;
+    margin-left: 100px;
+}
+.anya{
+    width: 270px;
+    border-radius: 180px;
+    float: right;
+}
+.sasti{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    
+}
+
+
+.Edu{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.educ{
+    margin-left: 100px;
+}
+.details{
+    margin-left: 230px;
+}
+
+.exp{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.expe{
+    margin-left: 100px;
+}
+.exp_yr{
+    margin-left: 230px;
+}
+
+.proj{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.prj{
+    margin-left: 100px;
+}
+.pname{
+    margin-left: 230px;
+   
+    margin-right: 300px;
+}
+
+.skills{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sk{
+    margin-left: 100px;
+}
+.tskill{
+    margin-left: 230px;
+}
+
+
+.certi{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.cf{
+    margin-left: 100px;
+}
+.cname{
+    margin-left: 230px;
+}
+
+
+.hbb{
+    margin-top: 100px;
+   
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.hname{
+    margin-left: 230px;
+}
+.hobi{
+    margin-left: 100px;
+}
+
+.me{
+    margin-left: 70%;
+   
+}
+.cont{
+    margin-left: 30px;
+    color:rgb(152, 152, 152);
+}
+.clist{
+    margin-left: 60px;
+    color:rgb(152, 152, 152);
+}
